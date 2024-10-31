@@ -2,11 +2,7 @@
 # The One Who Knows Everything 🤖
 
 ## Video Demo
-
-<video width="600" controls>
-  <source src="https://github.com/Vikneshwara-kumar/LLM_ChatBoT/blob/a070d62a051d55c7353b088d56b0b5a1e85a59e7/Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/Vikneshwara-kumar/LLM_ChatBoT/blob/a070d62a051d55c7353b088d56b0b5a1e85a59e7/Demo.mp4
 
 ## Table of Contents
 1. [Features](#features)
