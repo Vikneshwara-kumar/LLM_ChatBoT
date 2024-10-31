@@ -1,8 +1,6 @@
 
 # The One Who Knows Everything 🤖
 
-## Video Demo
-
 ## Table of Contents
 1. [Features](#features)
 2. [Prerequisites](#prerequisites)
