@@ -2,9 +2,6 @@
 # The One Who Knows Everything 🤖
 
 ## Video Demo
-https://github.com/Vikneshwara-kumar/LLM_ChatBoT/blob/a070d62a051d55c7353b088d56b0b5a1e85a59e7/Demo.mp4
-
-https://github.com/manthan410/finetune-llama2-for-docker_command/assets/94113767/5dfd566e-1984-461e-bd7b-7cd22829523e
 
 ## Table of Contents
 1. [Features](#features)
