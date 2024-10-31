@@ -1,6 +1,15 @@
 
 # The One Who Knows Everything 🤖
 
+## Video Demo
+
+You can watch the demo video below:
+
+<video width="600" controls>
+  <source src="/root/LLM_ChatBoT/Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Table of Contents
 1. [Features](#features)
 2. [Prerequisites](#prerequisites)
