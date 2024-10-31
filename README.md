@@ -3,10 +3,8 @@
 
 ## Video Demo
 
-You can watch the demo video below:
-
 <video width="600" controls>
-  <source src="Demo.mp4" type="video/mp4">
+  <source src="https://github.com/Vikneshwara-kumar/LLM_ChatBoT/blob/main/Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
